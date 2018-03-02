@@ -1,0 +1,16 @@
+.warnaputih{
+	color: white;
+	text-align: center;
+	margin-top: 5px;
+}
+.myDiv{
+	height: 200px;
+	background-color: green;
+}
+.tombol:hover{
+	background-color: cyan;
+	transform: scale(0.5);
+}
+.linkku:visited{
+	color: pink;
+}
