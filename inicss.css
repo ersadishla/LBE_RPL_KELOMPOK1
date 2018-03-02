@@ -1,0 +1,25 @@
+.nama{
+	color: white;
+}
+
+.header{
+	text-align: center;
+}
+
+.division{
+	height: 40px;
+	background-color: grey;
+}
+
+.tabel{
+	align-content: center;
+}
+
+#tombolnyala:hover{
+	background-color: blue;
+	transform: scale(2);
+}
+
+.link:visited{
+	color: magenta;
+}
